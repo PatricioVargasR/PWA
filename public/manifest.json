@@ -1,0 +1,19 @@
+{
+  "name": "Inspirate - Frases Inspiradoras",
+  "short_name": "Inspirate",
+  "description": "Descubre frases inspiradoras que transformarán tu día",
+  "start_url": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay"],
+  "background_color": "#fef3e2",
+  "theme_color": "#e89b3c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
