@@ -57,7 +57,7 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
   }
 
   if (!mounted) {
-    return <>{children}</>
+    return null
   }
 
   return (
